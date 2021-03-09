@@ -55,5 +55,5 @@ unionAll().then(({ data, mark }) => {
 union().then(({ data, mark }) => {
     const time = process.hrtime(mark);
     console.log('The result of UNION is of size', data.length);
-    console.log('The execution time of UNION ALL is %d seconds and %d nanoseconds', time[0], time[1]);
+    console.log('The execution time of UNION is %d seconds and %d nanoseconds', time[0], time[1]);
 });
