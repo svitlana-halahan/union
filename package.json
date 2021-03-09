@@ -1,0 +1,23 @@
+{
+  "name": "union",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svitlana-halahan/union.git"
+  },
+  "author": "Svitlana Halahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svitlana-halahan/union/issues"
+  },
+  "homepage": "https://github.com/svitlana-halahan/union#readme",
+  "description": ""
+}
